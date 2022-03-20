@@ -11,5 +11,8 @@
 NLTK
 https://www.nltk.org/
 
-Re library
+Re
 https://docs.python.org/3/library/re.html
+
+Sets
+https://docs.python.org/2/library/sets.html
