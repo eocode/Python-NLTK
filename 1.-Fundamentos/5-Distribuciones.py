@@ -13,7 +13,7 @@ fdist = FreqDist(text1)
 # print(fdist.most_common(20))
 #
 # type(fdist.plot(20))
-# fig.savefig('practicas/freqDist.png', bbox_inches="tight")
+# fig.savefig('1.-Fundamentos/freqDist.png', bbox_inches="tight")
 
 # Distribycuibes sobre contenido con filtro
 long_words = [palabra for palabra in text1 if len(palabra) > 5]
@@ -36,4 +36,4 @@ y = [freq[1] for freq in palabras_interesantes[-top_words:]]
 plt.plot(x, y)
 plt.xticks(x, [str(freq[0]) for freq in palabras_interesantes[-top_words:]], rotation='vertical')
 plt.grid(True)
-fig.savefig('practicas/freqDist2.png', bbox_inches="tight")
+fig.savefig('1.-Fundamentos/freqDist2.png', bbox_inches="tight")

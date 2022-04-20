@@ -38,6 +38,6 @@ df['log(bi_gram_freq)'] = df['bi_gram_freq'].apply(lambda x: np.log2(x))
 fig = px.scatter(x=df.PMI.values, y=df['log(bi_gram_freq)'].values, color=df['PMI'] + df['log(bi_gram_freq)'],
                  hover_name=df['bi_grams'].values, width=600, height=600, labels={'x': 'PMI', 'y': 'Log(Bigam Freq)'})
 fig.show()
-# fig.savefig('practicas/colocations1.png', bbox_inches="tight")
+# fig.savefig('1.-Fundamentos/colocations1.png', bbox_inches="tight")
 
 print(df)

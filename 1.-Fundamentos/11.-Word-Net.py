@@ -53,7 +53,7 @@ def draw_text_graph(G, labels):
     nx.draw_networkx_edges(G, pos)
     plt.xticks([])
     plt.yticks([])
-    fig.savefig('practicas/graph.png', bbox_inches="tight")
+    fig.savefig('1.-Fundamentos/graph.png', bbox_inches="tight")
 
 
 print('Hiponimo: ', ss[0].hyponyms())
