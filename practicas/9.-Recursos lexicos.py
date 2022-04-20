@@ -1,6 +1,6 @@
 import nltk
 
-nltk.download('book')
+nltk.download('book.txt')
 from nltk.book import *
 from nltk.corpus import stopwords
 

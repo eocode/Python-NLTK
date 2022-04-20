@@ -1,6 +1,6 @@
 import nltk
 
-nltk.download('book')
+nltk.download('book.txt')
 from nltk.book import *
 
 print(text1.tokens[:10], len(text1))
