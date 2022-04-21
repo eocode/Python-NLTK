@@ -23,4 +23,4 @@ https://docs.python.org/2/library/sets.html
 
 ## Notas de clasificación
 
-[Ver notas](/2.-%20Clasificacion/Notas/notes.md)
+[Ver notas](/2.-Clasificacion/Notas/notes.md)
