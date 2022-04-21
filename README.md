@@ -16,3 +16,11 @@ https://docs.python.org/3/library/re.html
 
 Sets
 https://docs.python.org/2/library/sets.html
+
+## Notas de fundamentos
+
+[Ver notas](/1.-Fundamentos/Notes/notes.md)
+
+## Notas de clasificación
+
+[Ver notas](/2.-%20Clasificacion/Notas/notes.md)

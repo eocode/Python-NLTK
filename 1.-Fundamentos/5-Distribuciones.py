@@ -10,7 +10,7 @@ import numpy as np
 fig = plt.figure(figsize=(10, 4))
 # plt.gcf().subplots_adjust(bottom=0.15)  # to avoid x-ticks cut-off
 fdist = FreqDist(text1)
-# print(fdist.most_common(20))
+print(fdist.most_common(20))
 #
 # type(fdist.plot(20))
 # fig.savefig('1.-Fundamentos/freqDist.png', bbox_inches="tight")
