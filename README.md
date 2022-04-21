@@ -19,8 +19,8 @@ https://docs.python.org/2/library/sets.html
 
 ## Notas de fundamentos
 
-[Ver notas](/1.-Fundamentos/Notes/notes.md)
+[Ver notas de los fundamentos](/1.-Fundamentos/Notes/notes.md)
 
 ## Notas de clasificación
 
-[Ver notas](/2.-Clasificacion/Notas/notes.md)
+[Ver notas de clasificadores](/2.-Clasificadores/Notas/notes.md)
